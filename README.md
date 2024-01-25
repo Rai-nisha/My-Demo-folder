@@ -1,2 +1,3 @@
-# My-Java-folder
-This contains Java programs.
+# Myfirstfolder
+This is my first step towords Github.
+Author - Nisha
